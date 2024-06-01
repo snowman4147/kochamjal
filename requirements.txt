@@ -1,0 +1,9 @@
+torch~=2.3.0+cu121
+pandas
+numpy~=1.26.4
+scikit-learn
+matplotlib
+watchdog~=4.0.1
+nptdms
+scipy~=1.13.1
+colorama~=0.4.6
